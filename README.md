@@ -1,2 +1,2 @@
 # test
-test opnclassroom
+test openclassroom
